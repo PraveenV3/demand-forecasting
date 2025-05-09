@@ -53,7 +53,8 @@ def load_data(file_path):
     pivot_df = df_grouped.pivot(index=['year', 'week'], columns='area', values='net_weight_kg').fillna(0)
     return pivot_df
 
-def train_model(data_path="data/processed/weekly_waste.csv", model_dir="models", epochs=20, batch_size=16, lr=0.001):
+def train_model(data_path="data/processed/weekly_waste.csv", model_dir="models", epochs=50, batch_size=16, lr=0.001):
+    import matplotlib.pyplot as plt
     os.makedirs(model_dir, exist_ok=True)
     data = load_data(data_path)
     scaler = StandardScaler()
@@ -66,6 +67,8 @@ def train_model(data_path="data/processed/weekly_waste.csv", model_dir="models",
     model = TimeSeriesTransformer(input_dim=data.shape[1]).to(device)
     criterion = nn.MSELoss()
     optimizer = optim.Adam(model.parameters(), lr=lr)
+
+    training_losses = []
 
     model.train()
     for epoch in range(epochs):
@@ -80,7 +83,19 @@ def train_model(data_path="data/processed/weekly_waste.csv", model_dir="models",
             optimizer.step()
             total_loss += loss.item()
         avg_loss = total_loss / len(dataloader)
+        training_losses.append(avg_loss)
         print(f"Epoch {epoch+1}/{epochs}, Loss: {avg_loss:.4f}")
+
+    # Plot training loss curve
+    os.makedirs("visualizations", exist_ok=True)
+    plt.figure(figsize=(8, 5))
+    plt.plot(range(1, epochs + 1), training_losses, marker='o')
+    plt.title("Training Loss Over Epochs")
+    plt.xlabel("Epoch")
+    plt.ylabel("MSE Loss")
+    plt.grid(True)
+    plt.savefig("visualizations/training_loss.png")
+    plt.close()
 
     model_path = os.path.join(model_dir, "transformer_model.pth")
     torch.save(model.state_dict(), model_path)
