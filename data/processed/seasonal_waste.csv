@@ -1,0 +1,274 @@
+year,season,area,waste_type,net_weight_kg
+2012.0,Fall,Boralesgamuwa UC,MSW,928180.0
+2012.0,Fall,Dehiwala MC,Non Biodegradable,5196090.0
+2012.0,Fall,Homagama PS,MSW,923280.0
+2012.0,Spring,Boralesgamuwa UC,MSW,880120.0
+2012.0,Spring,Dehiwala MC,Non Biodegradable,4323420.0
+2012.0,Spring,Homagama PS,MSW,850900.0
+2012.0,Summer,Boralesgamuwa UC,MSW,894730.0
+2012.0,Summer,Dehiwala MC,Non Biodegradable,4430600.0
+2012.0,Summer,Homagama PS,MSW,920110.0
+2012.0,Winter,Boralesgamuwa UC,MSW,845860.0
+2012.0,Winter,Dehiwala MC,Non Biodegradable,4404900.0
+2012.0,Winter,Homagama PS,MSW,573490.0
+2013.0,Fall,Boralesgamuwa UC,MSW,974380.0
+2013.0,Fall,Dehiwala MC,Non Biodegradable,5137040.0
+2013.0,Fall,Homagama PS,MSW,930460.0
+2013.0,Spring,Boralesgamuwa UC,MSW,899400.0
+2013.0,Spring,Dehiwala MC,Non Biodegradable,5030190.0
+2013.0,Spring,Homagama PS,MSW,897960.0
+2013.0,Summer,Boralesgamuwa UC,MSW,933720.0
+2013.0,Summer,Dehiwala MC,Non Biodegradable,5382510.0
+2013.0,Summer,Homagama PS,MSW,932750.0
+2013.0,Winter,Boralesgamuwa UC,MSW,920980.0
+2013.0,Winter,Dehiwala MC,Non Biodegradable,5147280.0
+2013.0,Winter,Homagama PS,MSW,986890.0
+2014.0,Fall,Boralesgamuwa UC,MSW,1098520.0
+2014.0,Fall,Dehiwala MC,Biodegradable,27390.0
+2014.0,Fall,Dehiwala MC,Non Biodegradable,5685530.0
+2014.0,Fall,Dehiwala MC,Sorted Organic Waste,29770.0
+2014.0,Fall,Homagama PS,MSW,1004830.0
+2014.0,Fall,Homagama PS,Sorted Organic Waste,3900.0
+2014.0,Fall,Moratuwa MC,Sorted Organic Waste,134210.0
+2014.0,Spring,Boralesgamuwa UC,MSW,976500.0
+2014.0,Spring,Dehiwala MC,Non Biodegradable,5345570.0
+2014.0,Spring,Homagama PS,MSW,871540.0
+2014.0,Spring,Moratuwa MC,Sorted Organic Waste,128830.0
+2014.0,Summer,Boralesgamuwa UC,MSW,1058400.0
+2014.0,Summer,Dehiwala MC,Biodegradable,28340.0
+2014.0,Summer,Dehiwala MC,Non Biodegradable,5389280.0
+2014.0,Summer,Dehiwala MC,Sorted Organic Waste,33720.0
+2014.0,Summer,Homagama PS,MSW,1149300.0
+2014.0,Summer,Moratuwa MC,Sorted Organic Waste,150090.0
+2014.0,Winter,Boralesgamuwa UC,MSW,970600.0
+2014.0,Winter,Dehiwala MC,Biodegradable,8710.0
+2014.0,Winter,Dehiwala MC,Non Biodegradable,5198050.0
+2014.0,Winter,Dehiwala MC,Sorted Organic Waste,11100.0
+2014.0,Winter,Homagama PS,MSW,1243920.0
+2014.0,Winter,Homagama PS,Sorted Organic Waste,8030.0
+2014.0,Winter,Moratuwa MC,Sorted Organic Waste,597400.0
+2015.0,Fall,Boralesgamuwa UC,MSW,1025850.0
+2015.0,Fall,Dehiwala MC,MSW,4824130.0
+2015.0,Fall,Homagama PS,MSW,1039150.0
+2015.0,Fall,Homagama PS,Sorted Organic Waste,2090.0
+2015.0,Fall,Moratuwa MC,Bulky Waste,184420.0
+2015.0,Fall,Moratuwa MC,C&D Waste,11010.0
+2015.0,Fall,Moratuwa MC,Industrial Waste,109200.0
+2015.0,Fall,Moratuwa MC,Indutrial Sludge Waste,7650.0
+2015.0,Fall,Moratuwa MC,MSW,1470350.0
+2015.0,Fall,Moratuwa MC,Polythyne & Regiform,1920.0
+2015.0,Fall,Moratuwa MC,Sanitary Waste,7120.0
+2015.0,Fall,Moratuwa MC,Slaghter House Waste,40110.0
+2015.0,Fall,Moratuwa MC,Soil,5980.0
+2015.0,Fall,Moratuwa MC,Soil With Waste,62780.0
+2015.0,Fall,Moratuwa MC,Sorted Organic Waste,994690.0
+2015.0,Spring,Boralesgamuwa UC,MSW,971030.0
+2015.0,Spring,Dehiwala MC,MSW,4812800.0
+2015.0,Spring,Homagama PS,MSW,933540.0
+2015.0,Spring,Homagama PS,Sorted Organic Waste,3280.0
+2015.0,Spring,Moratuwa MC,Bulky Waste,57600.0
+2015.0,Spring,Moratuwa MC,Industrial Waste,49430.0
+2015.0,Spring,Moratuwa MC,Indutrial Sludge Waste,5510.0
+2015.0,Spring,Moratuwa MC,MSW,2392010.0
+2015.0,Spring,Moratuwa MC,Polythyne & Regiform,710.0
+2015.0,Spring,Moratuwa MC,Sanitary Waste,5890.0
+2015.0,Spring,Moratuwa MC,Saw Dust,2420.0
+2015.0,Spring,Moratuwa MC,Slaghter House Waste,32320.0
+2015.0,Spring,Moratuwa MC,Soil With Waste,79450.0
+2015.0,Spring,Moratuwa MC,Sorted Organic Waste,874900.0
+2015.0,Spring,Moratuwa MC,Special Waste,5090.0
+2015.0,Summer,Boralesgamuwa UC,MSW,1483970.0
+2015.0,Summer,Dehiwala MC,MSW,5191540.0
+2015.0,Summer,Homagama PS,MSW,1120290.0
+2015.0,Summer,Moratuwa MC,Bulky Waste,136780.0
+2015.0,Summer,Moratuwa MC,C&D Waste,12690.0
+2015.0,Summer,Moratuwa MC,Industrial Waste,92560.0
+2015.0,Summer,Moratuwa MC,Indutrial Sludge Waste,30140.0
+2015.0,Summer,Moratuwa MC,MSW,2125560.0
+2015.0,Summer,Moratuwa MC,Sanitary Waste,6490.0
+2015.0,Summer,Moratuwa MC,Slaghter House Waste,54670.0
+2015.0,Summer,Moratuwa MC,Soil,11390.0
+2015.0,Summer,Moratuwa MC,Soil With Waste,110780.0
+2015.0,Summer,Moratuwa MC,Sorted Organic Waste,1437560.0
+2015.0,Winter,Boralesgamuwa UC,MSW,1038040.0
+2015.0,Winter,Dehiwala MC,MSW,5232840.0
+2015.0,Winter,Homagama PS,MSW,888490.0
+2015.0,Winter,Moratuwa MC,Bulky Waste,91200.0
+2015.0,Winter,Moratuwa MC,C&D Waste,3160.0
+2015.0,Winter,Moratuwa MC,Industrial Waste,70080.0
+2015.0,Winter,Moratuwa MC,Indutrial Sludge Waste,5360.0
+2015.0,Winter,Moratuwa MC,MSW,1936450.0
+2015.0,Winter,Moratuwa MC,Sanitary Waste,5300.0
+2015.0,Winter,Moratuwa MC,Slaghter House Waste,46660.0
+2015.0,Winter,Moratuwa MC,Soil With Waste,14520.0
+2015.0,Winter,Moratuwa MC,Sorted Organic Waste,1061780.0
+2016.0,Fall,Boralesgamuwa UC,MSW,836980.0
+2016.0,Fall,Boralesgamuwa UC,Sorted Organic Waste,78680.0
+2016.0,Fall,Homagama PS,MSW,584410.0
+2016.0,Fall,Homagama PS,Slaghter House Waste,11930.0
+2016.0,Fall,Homagama PS,Sorted Organic Waste,258580.0
+2016.0,Fall,Moratuwa MC,Bulky Waste,132740.0
+2016.0,Fall,Moratuwa MC,C&D Waste,5230.0
+2016.0,Fall,Moratuwa MC,Industrial Waste,282740.0
+2016.0,Fall,Moratuwa MC,MSW,1124740.0
+2016.0,Fall,Moratuwa MC,Polythyne & Regiform,1780.0
+2016.0,Fall,Moratuwa MC,Sanitary Waste,8940.0
+2016.0,Fall,Moratuwa MC,Saw Dust,1540.0
+2016.0,Fall,Moratuwa MC,Slaghter House Waste,24530.0
+2016.0,Fall,Moratuwa MC,Soil With Waste,232670.0
+2016.0,Fall,Moratuwa MC,Sorted Organic Waste,1069420.0
+2016.0,Spring,Boralesgamuwa UC,MSW,980130.0
+2016.0,Spring,Boralesgamuwa UC,Sorted Organic Waste,34130.0
+2016.0,Spring,Homagama PS,MSW,673200.0
+2016.0,Spring,Homagama PS,Sorted Organic Waste,162470.0
+2016.0,Spring,Moratuwa MC,Bulky Waste,165260.0
+2016.0,Spring,Moratuwa MC,C&D Waste,13350.0
+2016.0,Spring,Moratuwa MC,Industrial Waste,195040.0
+2016.0,Spring,Moratuwa MC,MSW,1324310.0
+2016.0,Spring,Moratuwa MC,Polythyne & Regiform,9600.0
+2016.0,Spring,Moratuwa MC,Sanitary Waste,6720.0
+2016.0,Spring,Moratuwa MC,Saw Dust,680.0
+2016.0,Spring,Moratuwa MC,Slaghter House Waste,34090.0
+2016.0,Spring,Moratuwa MC,Soil With Waste,105290.0
+2016.0,Spring,Moratuwa MC,Sorted Organic Waste,1047190.0
+2016.0,Winter,Boralesgamuwa UC,MSW,1017160.0
+2016.0,Winter,Boralesgamuwa UC,Sorted Organic Waste,27320.0
+2016.0,Winter,Homagama PS,Industrial Waste,10430.0
+2016.0,Winter,Homagama PS,MSW,790340.0
+2016.0,Winter,Homagama PS,Slaghter House Waste,2470.0
+2016.0,Winter,Homagama PS,Sorted Organic Waste,171180.0
+2016.0,Winter,Moratuwa MC,Bulky Waste,147000.0
+2016.0,Winter,Moratuwa MC,C&D Waste,3280.0
+2016.0,Winter,Moratuwa MC,Industrial Waste,232190.0
+2016.0,Winter,Moratuwa MC,Indutrial Sludge Waste,2570.0
+2016.0,Winter,Moratuwa MC,MSW,1243570.0
+2016.0,Winter,Moratuwa MC,Sanitary Waste,8390.0
+2016.0,Winter,Moratuwa MC,Saw Dust,4120.0
+2016.0,Winter,Moratuwa MC,Slaghter House Waste,46940.0
+2016.0,Winter,Moratuwa MC,Soil With Waste,136620.0
+2016.0,Winter,Moratuwa MC,Sorted Organic Waste,1063660.0
+2016.0,Winter,Moratuwa MC,Wood Debris,1490.0
+2017.0,Fall,Boralesgamuwa UC,MSW,863800.0
+2017.0,Fall,Boralesgamuwa UC,Sorted Organic Waste,80060.0
+2017.0,Fall,Dehiwala MC,Biodegradable,1702160.0
+2017.0,Fall,Dehiwala MC,MSW,4406320.0
+2017.0,Fall,Dehiwala MC,Non Biodegradable,69560.0
+2017.0,Fall,Homagama PS,MSW,701380.0
+2017.0,Fall,Homagama PS,Sorted Organic Waste,351760.0
+2017.0,Fall,Moratuwa MC,Bulky Waste,170180.0
+2017.0,Fall,Moratuwa MC,C&D Waste,15000.0
+2017.0,Fall,Moratuwa MC,Industrial Waste,76750.0
+2017.0,Fall,Moratuwa MC,MSW,1446400.0
+2017.0,Fall,Moratuwa MC,Sanitary Waste,6650.0
+2017.0,Fall,Moratuwa MC,Slaghter House Waste,65140.0
+2017.0,Fall,Moratuwa MC,Soil With Waste,271010.0
+2017.0,Fall,Moratuwa MC,Sorted Organic Waste,1319120.0
+2017.0,Spring,Boralesgamuwa UC,MSW,1026860.0
+2017.0,Spring,Boralesgamuwa UC,Sorted Organic Waste,35080.0
+2017.0,Spring,Dehiwala MC,Biodegradable,1101950.0
+2017.0,Spring,Dehiwala MC,MSW,1688000.0
+2017.0,Spring,Dehiwala MC,Non Biodegradable,56710.0
+2017.0,Spring,Homagama PS,MSW,692120.0
+2017.0,Spring,Homagama PS,Polythyne & Regiform,750.0
+2017.0,Spring,Homagama PS,Sorted Organic Waste,343990.0
+2017.0,Spring,Moratuwa MC,Bulky Waste,52980.0
+2017.0,Spring,Moratuwa MC,Industrial Waste,164600.0
+2017.0,Spring,Moratuwa MC,Indutrial Sludge Waste,1790.0
+2017.0,Spring,Moratuwa MC,MSW,1175270.0
+2017.0,Spring,Moratuwa MC,Sanitary Waste,6080.0
+2017.0,Spring,Moratuwa MC,Saw Dust,1070.0
+2017.0,Spring,Moratuwa MC,Slaghter House Waste,52890.0
+2017.0,Spring,Moratuwa MC,Soil,8860.0
+2017.0,Spring,Moratuwa MC,Soil With Waste,157810.0
+2017.0,Spring,Moratuwa MC,Sorted Organic Waste,1174220.0
+2017.0,Summer,Boralesgamuwa UC,MSW,919080.0
+2017.0,Summer,Boralesgamuwa UC,Sorted Organic Waste,89160.0
+2017.0,Summer,Dehiwala MC,Biodegradable,1857390.0
+2017.0,Summer,Dehiwala MC,MSW,4763160.0
+2017.0,Summer,Dehiwala MC,Non Biodegradable,77290.0
+2017.0,Summer,Homagama PS,MSW,687470.0
+2017.0,Summer,Homagama PS,Sorted Organic Waste,414490.0
+2017.0,Summer,Moratuwa MC,Bulky Waste,117150.0
+2017.0,Summer,Moratuwa MC,Industrial Waste,90290.0
+2017.0,Summer,Moratuwa MC,MSW,1426230.0
+2017.0,Summer,Moratuwa MC,Sanitary Waste,6900.0
+2017.0,Summer,Moratuwa MC,Slaghter House Waste,55830.0
+2017.0,Summer,Moratuwa MC,Soil With Waste,287410.0
+2017.0,Summer,Moratuwa MC,Sorted Organic Waste,1342720.0
+2017.0,Winter,Boralesgamuwa UC,MSW,933930.0
+2017.0,Winter,Boralesgamuwa UC,Sorted Organic Waste,72850.0
+2017.0,Winter,Dehiwala MC,Biodegradable,1197330.0
+2017.0,Winter,Dehiwala MC,MSW,2575380.0
+2017.0,Winter,Dehiwala MC,Non Biodegradable,70330.0
+2017.0,Winter,Homagama PS,MSW,688690.0
+2017.0,Winter,Homagama PS,Sorted Organic Waste,281010.0
+2017.0,Winter,Moratuwa MC,Bulky Waste,183010.0
+2017.0,Winter,Moratuwa MC,Industrial Waste,134760.0
+2017.0,Winter,Moratuwa MC,MSW,1274050.0
+2017.0,Winter,Moratuwa MC,Mesuring,1470.0
+2017.0,Winter,Moratuwa MC,Sanitary Waste,7740.0
+2017.0,Winter,Moratuwa MC,Saw Dust,2240.0
+2017.0,Winter,Moratuwa MC,Slaghter House Waste,65260.0
+2017.0,Winter,Moratuwa MC,Soil With Waste,174820.0
+2017.0,Winter,Moratuwa MC,Sorted Organic Waste,1221050.0
+2018.0,Fall,Boralesgamuwa UC,MSW,617440.0
+2018.0,Fall,Boralesgamuwa UC,Sorted Organic Waste,348310.0
+2018.0,Fall,Dehiwala MC,Biodegradable,2177560.0
+2018.0,Fall,Dehiwala MC,MSW,3145680.0
+2018.0,Fall,Dehiwala MC,Non Biodegradable,72740.0
+2018.0,Fall,Homagama PS,MSW,722650.0
+2018.0,Fall,Homagama PS,Sorted Organic Waste,434030.0
+2018.0,Fall,Moratuwa MC,Bulky Waste,166990.0
+2018.0,Fall,Moratuwa MC,C&D Waste,8670.0
+2018.0,Fall,Moratuwa MC,Industrial Waste,88680.0
+2018.0,Fall,Moratuwa MC,MSW,918350.0
+2018.0,Fall,Moratuwa MC,Sanitary Waste,11080.0
+2018.0,Fall,Moratuwa MC,Slaghter House Waste,111660.0
+2018.0,Fall,Moratuwa MC,Soil With Waste,150160.0
+2018.0,Fall,Moratuwa MC,Sorted Organic Waste,1705320.0
+2018.0,Spring,Boralesgamuwa UC,MSW,956380.0
+2018.0,Spring,Boralesgamuwa UC,Sorted Organic Waste,48420.0
+2018.0,Spring,Dehiwala MC,Biodegradable,1980210.0
+2018.0,Spring,Dehiwala MC,MSW,2929970.0
+2018.0,Spring,Dehiwala MC,Non Biodegradable,93340.0
+2018.0,Spring,Homagama PS,MSW,802300.0
+2018.0,Spring,Homagama PS,Sorted Organic Waste,346720.0
+2018.0,Spring,Moratuwa MC,Bulky Waste,195340.0
+2018.0,Spring,Moratuwa MC,C&D Waste,28170.0
+2018.0,Spring,Moratuwa MC,Industrial Waste,76080.0
+2018.0,Spring,Moratuwa MC,MSW,1318570.0
+2018.0,Spring,Moratuwa MC,Sanitary Waste,7800.0
+2018.0,Spring,Moratuwa MC,Slaghter House Waste,56100.0
+2018.0,Spring,Moratuwa MC,Soil With Waste,140040.0
+2018.0,Spring,Moratuwa MC,Sorted Organic Waste,1352960.0
+2018.0,Summer,Boralesgamuwa UC,MSW,672740.0
+2018.0,Summer,Boralesgamuwa UC,Sorted Organic Waste,272720.0
+2018.0,Summer,Dehiwala MC,Biodegradable,2083500.0
+2018.0,Summer,Dehiwala MC,MSW,3072190.0
+2018.0,Summer,Dehiwala MC,Non Biodegradable,86320.0
+2018.0,Summer,Homagama PS,MSW,816970.0
+2018.0,Summer,Homagama PS,Sorted Organic Waste,449590.0
+2018.0,Summer,Moratuwa MC,Bulky Waste,144220.0
+2018.0,Summer,Moratuwa MC,C&D Waste,23500.0
+2018.0,Summer,Moratuwa MC,Industrial Waste,78210.0
+2018.0,Summer,Moratuwa MC,MSW,1316120.0
+2018.0,Summer,Moratuwa MC,Sanitary Waste,10620.0
+2018.0,Summer,Moratuwa MC,Slaghter House Waste,99610.0
+2018.0,Summer,Moratuwa MC,Soil With Waste,238620.0
+2018.0,Summer,Moratuwa MC,Sorted Organic Waste,1682490.0
+2018.0,Winter,Boralesgamuwa UC,MSW,572640.0
+2018.0,Winter,Boralesgamuwa UC,Sorted Organic Waste,152030.0
+2018.0,Winter,Dehiwala MC,Biodegradable,1637080.0
+2018.0,Winter,Dehiwala MC,MSW,2096190.0
+2018.0,Winter,Dehiwala MC,Non Biodegradable,48220.0
+2018.0,Winter,Homagama PS,MSW,727800.0
+2018.0,Winter,Homagama PS,Sorted Organic Waste,341720.0
+2018.0,Winter,Moratuwa MC,Bulky Waste,76240.0
+2018.0,Winter,Moratuwa MC,C&D Waste,20150.0
+2018.0,Winter,Moratuwa MC,Industrial Waste,32790.0
+2018.0,Winter,Moratuwa MC,MSW,500130.0
+2018.0,Winter,Moratuwa MC,Sanitary Waste,750.0
+2018.0,Winter,Moratuwa MC,Saw Dust,3430.0
+2018.0,Winter,Moratuwa MC,Slaghter House Waste,44920.0
+2018.0,Winter,Moratuwa MC,Soil With Waste,44330.0
+2018.0,Winter,Moratuwa MC,Sorted Organic Waste,548050.0
